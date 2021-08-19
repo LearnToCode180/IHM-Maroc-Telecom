@@ -1,5 +1,5 @@
 # IHM-Maroc-Telecom
-Interface graphique de paiement en ligne IAM pour le paiement de facture en ligne realisée en **Java**.
+Interface graphique de paiement en ligne IAM pour le paiement de facture en ligne réalisée en **Java**.
 
 # Description
 il y a trois types de factures :
